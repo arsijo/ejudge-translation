@@ -1574,8 +1574,14 @@ msgstr "Перегенерувати турнірні паролі"
 msgid "Generate random contest passwords"
 msgstr "Згенерувати випадкові турнірні паролі"
 
+msgid "Generate random contest passwords!"
+msgstr "Згенерувати випадкові турнірні паролі!"
+
 msgid "Generate random registration passwords"
 msgstr "Згенерувати випадкові реєстраційні паролі"
+
+msgid "Generate random registration passwords!"
+msgstr "Згенерувати випадкові реєстраційні паролі!"
 
 msgid "Generate registration passwords"
 msgstr "Перегенерувати реєстраційні паролі"
