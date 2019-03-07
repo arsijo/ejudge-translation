@@ -1284,7 +1284,7 @@ msgid "Editing run"
 msgstr "Редагування повідомлення"
 
 msgid "Elapsed time"
-msgstr "Сплило часу"
+msgstr "Витрачено часу"
 
 msgid "Empty"
 msgstr "Не заповнено"
@@ -1332,7 +1332,7 @@ msgid "Examination information"
 msgstr "Інформація про екзаменованих"
 
 msgid "Examination mode"
-msgstr "Режим екзамена"
+msgstr "Режим екзамену"
 
 msgid "Examiner"
 msgstr "Екзаменатор"
@@ -1574,14 +1574,8 @@ msgstr "Перегенерувати турнірні паролі"
 msgid "Generate random contest passwords"
 msgstr "Згенерувати випадкові турнірні паролі"
 
-msgid "Generate random contest passwords!"
-msgstr "Згенерувати випадкові турнірні паролі!"
-
 msgid "Generate random registration passwords"
 msgstr "Згенерувати випадкові реєстраційні паролі"
-
-msgid "Generate random registration passwords!"
-msgstr "Згенерувати випадкові реєстраційні паролі!"
 
 msgid "Generate registration passwords"
 msgstr "Перегенерувати реєстраційні паролі"
