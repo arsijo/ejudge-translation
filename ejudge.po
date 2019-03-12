@@ -698,7 +698,7 @@ msgid "City (En)"
 msgstr "Місто (Англ.)"
 
 msgid "Clar ID"
-msgstr "Номер повідомлення"
+msgstr "Номер повід."
 
 msgid "Clar log update failed"
 msgstr "Не вдалося оновити журнал посилок"
@@ -1233,7 +1233,7 @@ msgid "Download selected runs"
 msgstr "Завантажити вибрані посилки"
 
 msgid "Dump data"
-msgstr "Вигрузити данні"
+msgstr "Вигрузити дані"
 
 msgid "Dump runs in CSV format"
 msgstr "Вивести базу посилок у CSV-форматі"
@@ -3078,7 +3078,7 @@ msgid "Register for another contest"
 msgstr "Зареєструватись на інший контест"
 
 msgid "Register for another contest and copy data"
-msgstr "Зареєструватись на інший контест та скопіювати данні"
+msgstr "Зареєструватись на інший контест та скопіювати дані"
 
 msgid "Registration"
 msgstr "Реєстрація"
@@ -4090,10 +4090,10 @@ msgid "To the top (postpone editing)"
 msgstr "Догори (відкласти редагування)"
 
 msgid "To user id"
-msgstr "Кому (реєстр. номер)"
+msgstr "Кому (реєстр. id)"
 
 msgid "To user login"
-msgstr "Кому (реєстр. ім’я)"
+msgstr "Кому (реєстр. логін)"
 
 msgid ""
 "To validate your e-mail and enable your participation in this contest you "
